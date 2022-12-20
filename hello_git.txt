@@ -1,5 +1,4 @@
 hello codestates
 Git is good.
 hello world
-my name is
-Yun
+1
